@@ -1,6 +1,7 @@
 package br.com.devsgeeknerd.interfaces;
 
-public interfaces CalculadorMatematico {
+public interface CalculadorMatematico {
     Boolean validar();
+
     int calcular();
 }
