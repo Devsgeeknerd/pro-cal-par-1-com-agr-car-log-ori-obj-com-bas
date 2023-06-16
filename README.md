@@ -8,7 +8,9 @@
 * Adicionado `validar()` tipo `Boolean`;
 * Adicionado `calcular()` tipo `int`.
 
-[CalculadorMatematico.](CalculadorMatematico.java)
+Ordem de criação dos arquivos:
+
+1. [CalculadorMatematico.](CalculadorMatematico.java)
 
 <!-- Informações -->
 ## &#8505; Informações
